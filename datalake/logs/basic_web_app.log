@@ -1,36 +1,10 @@
-2024-03-23 12:01:11,978:INFO:Starting the application
-2024-03-23 12:01:12,046:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-04-06 11:33:50,492:INFO:Starting the application
+2024-04-06 11:33:50,602:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-03-23 12:01:12,047:INFO:[33mPress CTRL+C to quit[0m
-2024-03-23 12:01:12,049:INFO: * Restarting with stat
-2024-03-23 12:01:13,953:INFO:Starting the application
-2024-03-23 12:01:13,966:WARNING: * Debugger is active!
-2024-03-23 12:01:13,986:INFO: * Debugger PIN: 130-447-315
-2024-03-23 12:01:35,936:INFO:127.0.0.1 - - [23/Mar/2024 12:01:35] "GET / HTTP/1.1" 200 -
-2024-03-23 12:06:36,521:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
-2024-03-23 12:06:39,445:INFO:Prediction: 155849.9
-2024-03-23 12:06:39,446:INFO:127.0.0.1 - - [23/Mar/2024 12:06:39] "POST / HTTP/1.1" 200 -
-2024-03-23 12:23:50,500:INFO:Applicacion terminated
-2024-03-23 12:23:50,807:INFO:Applicacion terminated
-2024-04-06 07:35:46,488:INFO:Starting the application
-2024-04-06 07:35:46,629:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on http://127.0.0.1:5000
-2024-04-06 07:35:46,630:INFO:[33mPress CTRL+C to quit[0m
-2024-04-06 07:35:46,646:INFO: * Restarting with stat
-2024-04-06 07:35:49,266:INFO:Starting the application
-2024-04-06 07:35:49,285:WARNING: * Debugger is active!
-2024-04-06 07:35:49,323:INFO: * Debugger PIN: 130-447-315
-2024-04-06 07:36:33,824:INFO:127.0.0.1 - - [06/Apr/2024 07:36:33] "GET / HTTP/1.1" 200 -
-2024-04-06 07:36:34,549:INFO:127.0.0.1 - - [06/Apr/2024 07:36:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2024-04-06 07:36:39,680:INFO:Applicacion terminated
-2024-04-06 07:36:40,020:INFO:Applicacion terminated
-2024-04-06 09:27:39,975:INFO:Starting the application
-2024-04-06 09:27:40,050:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on http://127.0.0.1:5000
-2024-04-06 09:27:40,050:INFO:[33mPress CTRL+C to quit[0m
-2024-04-06 09:27:40,053:INFO: * Restarting with stat
-2024-04-06 09:27:42,547:INFO:Starting the application
-2024-04-06 09:27:42,569:WARNING: * Debugger is active!
-2024-04-06 09:27:42,592:INFO: * Debugger PIN: 130-447-315
-2024-04-06 09:28:02,392:INFO:Applicacion terminated
-2024-04-06 09:28:02,632:INFO:Applicacion terminated
+2024-04-06 11:33:50,603:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 11:33:50,613:INFO: * Restarting with stat
+2024-04-06 11:33:52,336:INFO:Starting the application
+2024-04-06 11:33:52,353:WARNING: * Debugger is active!
+2024-04-06 11:33:52,390:INFO: * Debugger PIN: 130-447-315
+2024-04-06 11:33:53,514:INFO:Applicacion terminated
+2024-04-06 11:33:53,646:INFO:Applicacion terminated
