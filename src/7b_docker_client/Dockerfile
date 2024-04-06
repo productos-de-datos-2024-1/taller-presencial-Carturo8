@@ -13,7 +13,7 @@
 # 
 # $ docker build --tag=carturo8/api-client:0.1 . 
 #
-# Las images actuales se pueden listar con:
+# Las images actuales se pueden listar con
 #
 # $ docker image ls
 #

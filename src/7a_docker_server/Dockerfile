@@ -13,7 +13,7 @@
 #
 # $ docker build --tag=carturo8/api-server:0.1 . 
 #
-# Las inages actuales se pueden listar con:
+# Las inages actuales se pueden listar con
 #
 # $ docker image ls
 #

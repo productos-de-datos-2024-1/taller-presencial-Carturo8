@@ -1,6 +1,5 @@
 """Web application to deploy the model"""
 
-
 import json
 import logging
 import os.path

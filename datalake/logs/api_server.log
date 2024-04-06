@@ -1,0 +1,27 @@
+2024-04-06 11:36:00,178:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 11:36:00,178:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 11:36:00,180:INFO: * Restarting with stat
+2024-04-06 11:36:01,927:WARNING: * Debugger is active!
+2024-04-06 11:36:01,941:INFO: * Debugger PIN: 130-447-315
+2024-04-06 11:36:11,060:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 11:36:11,081:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 11:36:11,084:INFO: * Restarting with stat
+2024-04-06 11:36:13,210:WARNING: * Debugger is active!
+2024-04-06 11:36:13,238:INFO: * Debugger PIN: 130-447-315
+2024-04-06 11:36:18,570:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 11:36:19,801:INFO:Prediction: [1605832.10562042]
+2024-04-06 11:36:19,802:INFO:127.0.0.1 - - [06/Apr/2024 11:36:19] "POST / HTTP/1.1" 200 -
+2024-04-06 11:38:40,489:INFO: * Detected change in 'c:\\Users\\Gamer\\Documents\\GitHub\\taller-presencial-Carturo8\\src\\6a_api_server\\autograding.py', reloading
+2024-04-06 11:38:40,720:INFO: * Restarting with stat
+2024-04-06 11:38:44,884:WARNING: * Debugger is active!
+2024-04-06 11:38:44,898:INFO: * Debugger PIN: 130-447-315
+2024-04-06 11:39:35,479:INFO: * Detected change in 'c:\\Users\\Gamer\\Documents\\GitHub\\taller-presencial-Carturo8\\src\\6a_api_server\\autograding.py', reloading
+2024-04-06 11:39:35,650:INFO: * Restarting with stat
+2024-04-06 11:39:37,874:WARNING: * Debugger is active!
+2024-04-06 11:39:37,888:INFO: * Debugger PIN: 130-447-315
+2024-04-06 11:39:45,807:INFO: * Detected change in 'c:\\Users\\Gamer\\Documents\\GitHub\\taller-presencial-Carturo8\\src\\6a_api_server\\server.py', reloading
+2024-04-06 11:39:45,947:INFO: * Restarting with stat
+2024-04-06 11:39:48,229:WARNING: * Debugger is active!
+2024-04-06 11:39:48,248:INFO: * Debugger PIN: 130-447-315

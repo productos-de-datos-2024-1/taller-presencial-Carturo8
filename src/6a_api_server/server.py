@@ -1,6 +1,5 @@
 """API server example
 
-
 Usage from command line:
 
 ```bash
