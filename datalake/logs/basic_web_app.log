@@ -24,3 +24,13 @@
 2024-04-06 07:36:34,549:INFO:127.0.0.1 - - [06/Apr/2024 07:36:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 2024-04-06 07:36:39,680:INFO:Applicacion terminated
 2024-04-06 07:36:40,020:INFO:Applicacion terminated
+2024-04-06 09:27:39,975:INFO:Starting the application
+2024-04-06 09:27:40,050:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-06 09:27:40,050:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:27:40,053:INFO: * Restarting with stat
+2024-04-06 09:27:42,547:INFO:Starting the application
+2024-04-06 09:27:42,569:WARNING: * Debugger is active!
+2024-04-06 09:27:42,592:INFO: * Debugger PIN: 130-447-315
+2024-04-06 09:28:02,392:INFO:Applicacion terminated
+2024-04-06 09:28:02,632:INFO:Applicacion terminated
