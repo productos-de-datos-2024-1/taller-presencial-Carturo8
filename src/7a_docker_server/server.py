@@ -13,7 +13,6 @@ from flask import Flask, request
 # Logging
 # -----------------------------------------------------------------------------
 
-
 CONFIG_FILE = "config.json"
 
 if not pkg_resources.resource_exists(__name__, CONFIG_FILE):
