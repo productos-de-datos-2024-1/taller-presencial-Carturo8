@@ -13,13 +13,15 @@
 # 
 # $ docker build --tag=carturo8/api-client:0.1 . 
 #
-# Las images actuales se pueden listar con
+# Las images actuales se pueden listar con:
 #
 # $ docker image ls
 #
 # Para lanzar la aplicación web que consume el servicio se ejecuta:
 #
 # $ docker run --network=mynetwork --rm -it --name=api-client -p 5002:5000 -v "$PWD"/datalake:/datalake carturo8/api-client:0.1
+#   docker run --network=mynetwork --rm -it --name=api-client -p 5002:5000 -v "$PWD/datalake:/datalake" carturo8/api-client:0.1
+#   docker run --network=mynetwork --rm -it --name=api-client -p 5002:5000 -v "%cd%/datalake:/datalake" carturo8/api-client:0.1
 #
 
 # Definición de la imagen base

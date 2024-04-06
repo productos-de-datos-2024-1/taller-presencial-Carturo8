@@ -13,13 +13,14 @@
 #
 # $ docker build --tag=carturo8/api-server:0.1 . 
 #
-# Las inages actuales se pueden listar con
+# Las inages actuales se pueden listar con:
 #
 # $ docker image ls
 #
 # Para lanzar el servidor se ejecuta:
 #
 # $ docker run --network=mynetwork --rm -it --name=api-server -p 5001:5000 -v "$PWD"/datalake:/datalake carturo8/api-server:0.1
+#   docker run --network=mynetwork --rm -it --name=api-server -p 5001:5000 -v "%cd%/datalake:/datalake" carturo8/api-server:0.1
 #
 
 # Definición de la imagen base
