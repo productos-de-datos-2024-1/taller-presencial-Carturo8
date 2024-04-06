@@ -25,3 +25,7 @@
 2024-04-06 11:39:45,947:INFO: * Restarting with stat
 2024-04-06 11:39:48,229:WARNING: * Debugger is active!
 2024-04-06 11:39:48,248:INFO: * Debugger PIN: 130-447-315
+2024-04-06 12:07:44,160:INFO: * Detected change in 'c:\\Users\\Gamer\\Documents\\GitHub\\taller-presencial-Carturo8\\src\\6a_api_server\\autograding.py', reloading
+2024-04-06 12:07:44,338:INFO: * Restarting with stat
+2024-04-06 12:07:45,794:WARNING: * Debugger is active!
+2024-04-06 12:07:45,804:INFO: * Debugger PIN: 130-447-315
