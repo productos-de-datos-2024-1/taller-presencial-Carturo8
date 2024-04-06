@@ -1,0 +1,54 @@
+2024-04-06 07:37:39,405:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:37:39,406:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:37:39,410:INFO: * Restarting with stat
+2024-04-06 07:37:43,858:WARNING: * Debugger is active!
+2024-04-06 07:37:43,882:INFO: * Debugger PIN: 130-447-315
+2024-04-06 07:47:10,337:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:47:10,358:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:47:10,364:INFO: * Restarting with stat
+2024-04-06 07:47:13,038:WARNING: * Debugger is active!
+2024-04-06 07:47:13,056:INFO: * Debugger PIN: 130-447-315
+2024-04-06 07:51:52,766:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:51:52,767:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:51:52,770:INFO: * Restarting with stat
+2024-04-06 07:51:55,493:WARNING: * Debugger is active!
+2024-04-06 07:51:55,517:INFO: * Debugger PIN: 130-447-315
+2024-04-06 07:55:17,525:INFO:127.0.0.1 - - [06/Apr/2024 07:55:17] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 08:00:07,354:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:00:07,354:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:00:07,356:INFO: * Restarting with stat
+2024-04-06 08:00:09,363:WARNING: * Debugger is active!
+2024-04-06 08:00:09,383:INFO: * Debugger PIN: 130-447-315
+2024-04-06 08:01:50,867:INFO:127.0.0.1 - - [06/Apr/2024 08:01:50] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:02:23,918:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:02:39,051:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:02:39,057:INFO:127.0.0.1 - - [06/Apr/2024 08:02:39] "POST / HTTP/1.1" 200 -
+2024-04-06 08:18:12,468:INFO: * Detected change in 'c:\\Users\\Gamer\\Documents\\GitHub\\taller-presencial-Carturo8\\src\\6a_api_client\\client_example.py', reloading
+2024-04-06 08:18:13,054:INFO: * Restarting with stat
+2024-04-06 08:18:18,175:WARNING: * Debugger is active!
+2024-04-06 08:18:18,198:INFO: * Debugger PIN: 130-447-315
+2024-04-06 08:21:23,041:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:21:23,041:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:21:23,043:INFO: * Restarting with stat
+2024-04-06 08:21:25,407:WARNING: * Debugger is active!
+2024-04-06 08:21:25,421:INFO: * Debugger PIN: 130-447-315
+2024-04-06 08:21:51,216:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:21:51,216:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:21:51,226:INFO: * Restarting with stat
+2024-04-06 08:21:55,307:WARNING: * Debugger is active!
+2024-04-06 08:21:55,327:INFO: * Debugger PIN: 130-447-315
+2024-04-06 08:22:47,507:INFO: * Detected change in 'C:\\Users\\Gamer\\Documents\\GitHub\\taller-presencial-Carturo8\\src\\6a_api_client\\client_example.py', reloading
+2024-04-06 08:22:47,914:INFO: * Restarting with stat
+2024-04-06 08:22:50,687:WARNING: * Debugger is active!
+2024-04-06 08:22:50,713:INFO: * Debugger PIN: 130-447-315
+2024-04-06 08:22:55,198:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:22:58,008:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:22:58,009:INFO:127.0.0.1 - - [06/Apr/2024 08:22:58] "POST / HTTP/1.1" 200 -
+2024-04-06 09:10:46,767:INFO: * Detected change in 'C:\\Users\\Gamer\\Documents\\GitHub\\taller-presencial-Carturo8\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:10:47,579:INFO: * Restarting with stat
